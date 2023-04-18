@@ -1,11 +1,22 @@
 {
   "name": "freecodecamp",
   "version": "1.0.0",
-  "description": "",
+  "description": "ssdgazidudgriro",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "opzepor"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saghro/codecam.git"
+  },
+  "keywords": [
+    "16498749"
+  ],
+  "author": "yuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saghro/codecam/issues"
+  },
+  "homepage": "https://github.com/saghro/codecam#readme"
 }
